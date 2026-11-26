@@ -1,12 +1,13 @@
 # go-vcs — brand assets
 
 Official logos for the **go-vcs** organization and its repositories
-(`go-vcs`, `go-vcs-forge`, `go-vcs-gitproto`, `go-vcs-actions`).
+(`go-vcs`, `go-vcs-forge`, `go-vcs-gitproto`, `go-vcs-actions`, `go-vcs-agentd`).
 
 <img src="avatar/go-vcs.png" width="160" alt="go-vcs">
 <img src="avatar/go-vcs-forge.png" width="160" alt="go-vcs-forge">
 <img src="avatar/go-vcs-gitproto.png" width="160" alt="go-vcs-gitproto">
 <img src="avatar/go-vcs-actions.png" width="160" alt="go-vcs-actions">
+<img src="avatar/go-vcs-agentd.png" width="160" alt="go-vcs-agentd">
 
 ## Formats
 

@@ -14,7 +14,7 @@ import re
 import struct
 import sys
 
-SUBJECTS = ["go-vcs", "go-vcs-forge", "go-vcs-gitproto", "go-vcs-actions"]
+SUBJECTS = ["go-vcs", "go-vcs-forge", "go-vcs-gitproto", "go-vcs-actions", "go-vcs-agentd"]
 SIZES = [16, 32, 48, 64, 128, 256, 512, 1024]
 errors = []
 
